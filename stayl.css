@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#output {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: rgb(255, 0, 0);
+}
